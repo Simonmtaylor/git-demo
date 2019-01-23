@@ -2,12 +2,4 @@
 
 This is the first file in this repo.
 
-## IPSUM Below
-
-Test
-TESt
-TEST
-
-
-Test test
-test
+## Website Conteets
